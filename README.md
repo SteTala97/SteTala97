@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Stefano Talamona, aka @SteTala97;
+- 👀 I’m interested in image-processing, Python, C++, Machine-Learning and Artificial Intelligence;
+- 🌱 I’m currently studying to get my Master Degree in Computer Science;
+- 💞️ I’m looking to collaborate on any interesting project involving the interests shown above!
+- 📫 How to reach me: stefano.talamona.97@gmail.com :) 
