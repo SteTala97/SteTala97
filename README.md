@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Stefano Talamona, aka @SteTala97;
+- 👋 Hi, I’m Stefano Talamona;
 - 👾 I’m interested in Image Processing, Computer Vision and (Deep) Machine-Learning;
 - 🎓 I’m currently studying to get my Master Degree in Computer Science at Bicocca University in Milan;
-- 💞️ I’m open to collaborate on any interesting project involving the topics mentioned above!
 - 🛹🎸👽 In my free time I love skateboarding, playing guitar, drums, harmonica, and practicing slacklining;
 - 📫 How to reach me: stefano.talamona.97@gmail.com :) 
